@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MEMO</string>
+    <string name="sort_by_date">Tier par date</string>
+    <string name="sort_by_title">Trier par titre</string>
+    <string name="titre">TITRE</string>
+    <string name="texte">Texte du mémo</string>
+    <string name="msg_deverrouiller">Entrez votre mot de pass pour déverrouiller.</string>
+</resources>
